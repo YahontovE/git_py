@@ -4,5 +4,5 @@ def sum(nam_1,nam_2):
     return nam_1 + nam_2
 
 
-def difference():
+def difference(nam_1,nam_2):
     return nam_1-nam_2
